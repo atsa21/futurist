@@ -1,0 +1,9 @@
+/* Variables */
+
+:root {
+    --black: rgb(0, 0, 0);
+    --background: rgba(12, 8, 38);
+    --lightblack: #100C29;
+    --acsentcolor: #32DEF6;
+    --white: rgb(255, 255, 255);
+}
